@@ -1,6 +1,6 @@
 # Patrones de diseño: Builder
 ### Tarea 1 de patrones de diseño
-##### Modelos de programación I - G.020-xx
+##### Modelos de programación I - G.020-81
 
 Ejercicio desarrollado en Java.
 
